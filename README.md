@@ -104,7 +104,7 @@ sudo docker build -t "greenmind/sherlock:1" .
 #### Usando a imagem
 Podemos usar a imagem da seguinte forma
 ```sh
-sudo docker run -it --rm "greenmind/sherlock:1" greenmind
+sudo docker run -it --rm "greenmind/sherlock:1" username
 ```
 
 
